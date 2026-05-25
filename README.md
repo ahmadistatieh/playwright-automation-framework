@@ -116,5 +116,6 @@ npx playwright show-report
 ## 👨‍💻 Author
 
 Ahmad Istatieh
-Software Engineering Student
-An-Najah National University
+Software Engineering Student  
+An-Najah National University  
+ 
